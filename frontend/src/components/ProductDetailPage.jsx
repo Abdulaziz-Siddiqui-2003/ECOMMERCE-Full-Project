@@ -7,7 +7,7 @@ import ProductDetailContent from './ProductDetailContent';
 import BlockDetail from './BlockDetail';
 import AsideItems from './AsideItems';
 import BlockRecom from './BlockRecom'; 
-import BannerProduct from './bannerproduct';
+import BannerProduct from './BannerProduct';
 
 function ProductDetailPage() {
   const { id } = useParams();

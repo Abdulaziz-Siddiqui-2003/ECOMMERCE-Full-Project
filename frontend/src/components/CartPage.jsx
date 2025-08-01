@@ -5,7 +5,7 @@ import Footer from "./Footer"; // Assuming this component exists
 import Cart from "./Cart";
 import Coupon from "./Coupon";
 import CartSummary from "./CartSummary";
-import BannerProduct from "./bannerproduct"; // Assuming this component exists
+import BannerProduct from "./BannerProduct"; // Assuming this component exists
 import ItFeat from "./ItFeat";
 import Group1005 from "./Group1005";
 
